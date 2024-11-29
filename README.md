@@ -2,6 +2,8 @@
 
 Hey, it's Brian, I'm here!
 
+I'm on the `brian-devel` branch
+
 ## Project/Goals
 
 ## Process
