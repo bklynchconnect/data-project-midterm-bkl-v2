@@ -1,5 +1,7 @@
 # Data Science Midterm Project
 
+Hey, it's Brian, I'm here!
+
 ## Project/Goals
 
 ## Process
